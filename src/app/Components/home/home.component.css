@@ -1,0 +1,9 @@
+
+.home-content span {
+    background-color: var(--main-color);
+}
+
+a:hover{
+
+    color: white;
+}
